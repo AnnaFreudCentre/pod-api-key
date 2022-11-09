@@ -1,0 +1,20 @@
+{
+  "name": "pod-api-keys-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "authenticate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.10",
+    "uuid": "^9.0.0"
+  }
+}
